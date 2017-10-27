@@ -1,0 +1,4 @@
+cordova-app/
+node_modules/
+npm-debug.log
+src/www
